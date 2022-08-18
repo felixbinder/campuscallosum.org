@@ -16,27 +16,27 @@ Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this
 
 ## Schedule
 
-| Date | Time | Event |
-|------|------|-------|
-| Monday | 3–4pm | Tasty Training for Better Burner Behavior |
-| | 4–5pm | Working overtime to keep up with the Joneses? | 
-| | 5–6pm | Science of decision making + pitfalls |
-|------|------|-------|
-| Tuesday | 3–4pm | Neurotech Chat |
-| | 4–5pm |	Hands-on Neuroscience Experimentation|
-| | 5–6pm | Ask a Drunk(?) Scientist! |
-|------|------|-------|
-| Wednesday | 3–4pm | "Small talk": Brain waves	What, why and how about brain waves| 
-| | 4–5pm |	The Neuroscience of Psychedelics |
-| | 5–6pm |	Planetary Health |
-|------|------|-------|------|
-| Thursday | 3–4pm | Where is my love potion No.9? | 
-| | 4–5pm |	Consciousness and the Brain	|
-| | 5–6pm |	Ask a Drunk(?) Scientist! |
-|------|------|-------|
-| Friday | 3–5pm | Ask a Drunk(?) Scientist! |
-| | 5–6pm | Ask a Drunk(?) Scientist! |
-| | 7–8pm |	Sunset poetry reading |	
+| Date      | Time   | Event                                         |
+| --------- | ------ | --------------------------------------------- | 
+| Monday    | 3–4pm  | Tasty Training for Better Burner Behavior     |
+|           | 4–5pm  | Working overtime to keep up with the Joneses? |
+|           | 5–6pm  | Science of decision making + pitfalls         |
+| ------    | ------ | -------                                       |
+| Tuesday   | 3–4pm  | Neurotech Chat                                |
+|           | 4–5pm  | Hands-on Neuroscience Experimentation         |
+|           | 5–6pm  | Ask a Drunk(?) Scientist!                     |
+| ------    | ------ | -------                                       |
+| Wednesday | 3–4pm  | "Small talk": Brain waves                     |
+|           | 4–5pm  | The Neuroscience of Psychedelics              |
+|           | 5–6pm  | Planetary Health                              |
+| ------    | ------ | -------                                       | 
+| Thursday  | 3–4pm  | Where is my love potion No.9?                 |
+|           | 4–5pm  | Consciousness and the Brain                   |
+|           | 5–6pm  | Ask a Drunk(?) Scientist!                     |
+| ------    | ------ | -------                                       |
+| Friday    | 3–5pm  | Ask a Drunk(?) Scientist!                     |
+|           | 5–6pm  | Ask a Drunk(?) Scientist!                     |
+|           | 7–8pm  | Sunset poetry reading                         |
 
 ## Photos
 
@@ -50,6 +50,7 @@ Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this
 <iframe src="https://www.google.com/maps/d/embed?mid=1IGnBpMKyclYjKZvhw9HQokDkeWAqBXhf&ll=40.78216363391222%2C-119.19619796311491&z=18" width="752" height="480"></iframe>
 
 ## Contact us
+
 Write us an email at [campuscallosum@gmail.com](mailto:campuscallosum@gmail.com)
 
 Look at us on [Instagram](https://www.instagram.com/campus_callosum/)
