@@ -16,9 +16,27 @@ Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this
 
 ## Schedule
 
-| Date | Time | Event | Info |
+| Date | Time | Event |
+|------|------|-------|
+| Monday | 3–4pm | Tasty Training for Better Burner Behavior |
+| | 4–5pm | Working overtime to keep up with the Joneses? | 
+| | 5–6pm | Science of decision making + pitfalls |
+|------|------|-------|
+| Tuesday | 3–4pm | Neurotech Chat |
+| | 4–5pm |	Hands-on Neuroscience Experimentation|
+| | 5–6pm | Ask a Drunk(?) Scientist! |
+|------|------|-------|
+| Wednesday | 3–4pm | "Small talk": Brain waves	What, why and how about brain waves| 
+| | 4–5pm |	The Neuroscience of Psychedelics |
+| | 5–6pm |	Planetary Health |
 |------|------|-------|------|
-| 08/01 | 9:00am - 11:am | Welcome drinks | This is just a sample event 🍸 |
+| Thursday | 3–4pm | Where is my love potion No.9? | 
+| | 4–5pm |	Consciousness and the Brain	|
+| | 5–6pm |	Ask a Drunk(?) Scientist! |
+|------|------|-------|
+| Friday | 3–5pm | Ask a Drunk(?) Scientist! |
+| | 5–6pm | Ask a Drunk(?) Scientist! |
+| | 7–8pm |	Sunset poetry reading |	
 
 ## Photos
 
