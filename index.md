@@ -17,24 +17,25 @@ Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this
 ## Schedule
 
 | Date      | Time   | Event                                         |
-| --------- | ------ | --------------------------------------------- | 
+| --------- | ------ | --------------------------------------------- |
 | Monday    | 3–4pm  | Tasty Training for Better Burner Behavior     |
 |           | 4–5pm  | Working overtime to keep up with the Joneses? |
-|           | 5–6pm  | Science of decision making + pitfalls         |
+|           | 5–6pm  | Science Open Mic                              |
 | ------    | ------ | -------                                       |
 | Tuesday   | 3–4pm  | Neurotech Chat                                |
-|           | 4–5pm  | Hands-on Neuroscience Experimentation         |
+|           | 4–5pm  | Hands-on with Machine-Brian Interfaces        |
 |           | 5–6pm  | Ask a Drunk(?) Scientist!                     |
 | ------    | ------ | -------                                       |
 | Wednesday | 3–4pm  | "Small talk": Brain waves                     |
 |           | 4–5pm  | The Neuroscience of Psychedelics              |
 |           | 5–6pm  | Planetary Health                              |
-| ------    | ------ | -------                                       | 
+| ------    | ------ | -------                                       |
 | Thursday  | 3–4pm  | Where is my love potion No.9?                 |
 |           | 4–5pm  | Consciousness and the Brain                   |
 |           | 5–6pm  | Ask a Drunk(?) Scientist!                     |
 | ------    | ------ | -------                                       |
-| Friday    | 3–5pm  | Ask a Drunk(?) Scientist!                     |
+| Friday    | 3–4pm  | Science Open Mic                              |
+|           | 4–5pm  | The Neuroscience of Consent                   |
 |           | 5–6pm  | Ask a Drunk(?) Scientist!                     |
 |           | 7–8pm  | Sunset poetry reading                         |
 
