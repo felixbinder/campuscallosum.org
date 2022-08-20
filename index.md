@@ -23,7 +23,7 @@ Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this
 |           | 5–6pm  | Science Open Mic                              |
 | ------    | ------ | -------                                       |
 | Tuesday   | 3–4pm  | Neurotech Chat                                |
-|           | 4–5pm  | Hands-on with Machine-Brian Interfaces        |
+|           | 4–5pm  | Hands-on with Machine-Brain Interfaces        |
 |           | 5–6pm  | Ask a Drunk(?) Scientist!                     |
 | ------    | ------ | -------                                       |
 | Wednesday | 3–4pm  | "Small talk": Brain waves                     |
