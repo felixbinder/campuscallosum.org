@@ -10,7 +10,7 @@ layout: page
 
 ![logo](logo.png)
 
-<p align="center"><b>Find us at <a href="https://www.google.com/maps/d/viewer?mid=1IGnBpMKyclYjKZvhw9HQokDkeWAqBXhf&ll=40.78216363391222%2C-119.19619796311491&z=19">2:30 & A</a></b></p>
+<!-- <p align="center"><b>Find us at <a href="https://www.google.com/maps/d/viewer?mid=1IGnBpMKyclYjKZvhw9HQokDkeWAqBXhf&ll=40.78216363391222%2C-119.19619796311491&z=19">2:30 & A</a></b></p> -->
 
 Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this year and looking to form new connections!
 
