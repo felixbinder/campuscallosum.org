@@ -12,9 +12,21 @@ layout: page
 
 <p align="center"><b>Find us at <a href="https://www.google.com/maps/d/viewer?mid=1IGnBpMKyclYjKZvhw9HQokDkeWAqBXhf&ll=40.78216363391222%2C-119.19619796311491&z=19">2:30 & A</a></b></p>
 
-Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this year and looking to form new connections! Our camp has the goal of bringing more science to the playa. We're a bunch of scientists, geeks, and friends interested in sharing, learning, and discussing science with the BRC community. Our mission is to be a place for science enthusiasts to come and share their excitement, and where scientific perspectives can be added to a wide range of discussions and topics accessible to every burner.
+Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this year and looking to form new connections!
 
-## Schedule
+Hypothesis: Scientifically rigorous yet playful activities enhance your burn.
+
+Intro: Our science-themed camp, Campus Callosum, is hosting interactive demos, games, workshops, science art, and Q&As… and we want YOUR BRAIN!
+
+Specific Aims:
+
+AIM 1) Founded by neuroscientists and friends, we have a ton of brainy events! Check out our interactive neurotech, operant conditioning games, and expert-led chats on the neuroscience of drugs, the mind and more.
+
+AIM 2) Our speakeasy 'The Double-Blind Pig' is serving placebo-controlled refreshments. Drop in for "Ask a Drunk Scientist" to help us answer the all the questions that emerge from the dust and test your own ability to discern your sobriety.
+
+Don‘t forget to have a look at our scientifically-inspired art projects on your way out!
+
+<!-- ## Schedule
 
 | Date      | Time   | Event                                         |
 | --------- | ------ | --------------------------------------------- |
@@ -37,18 +49,17 @@ Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this
 | Friday    | 3–4pm  | Science Open Mic                              |
 |           | 4–5pm  | The Neuroscience of Consent                   |
 |           | 5–6pm  | Ask a Drunk(?) Scientist!                     |
-|           | 7–8pm  | Sunset poetry reading                         |
+|           | 7–8pm  | Sunset poetry reading                         | -->
 
 ## Photos
 
-![](photos/1.jpeg)
-![](photos/2.jpeg)
-![](photos/3.jpeg)
-![](photos/4.jpeg)
+![](photos/2023/1.jpeg)
+![](photos/2023/2.jpeg)
+![](photos/2023/3.jpeg)
 
-## Find us
+<!-- ## Find us
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1IGnBpMKyclYjKZvhw9HQokDkeWAqBXhf&ll=40.78216363391222%2C-119.19619796311491&z=18" width="752" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1IGnBpMKyclYjKZvhw9HQokDkeWAqBXhf&ll=40.78216363391222%2C-119.19619796311491&z=18" width="752" height="480"></iframe> -->
 
 ## Contact us
 
