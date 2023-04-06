@@ -56,6 +56,7 @@ Don‘t forget to have a look at our scientifically-inspired art projects on you
 ![](photos/2023/1.jpeg)
 ![](photos/2023/2.jpeg)
 ![](photos/2023/3.jpeg)
+![](photos/2023/4.jpeg)
 
 <!-- ## Find us
 
