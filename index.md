@@ -64,7 +64,7 @@ Don‘t forget to have a look at our scientifically-inspired art projects on you
 
 ## Contact us
 
-Write us an email at [campuscallosum@gmail.com](mailto:campuscallosum@gmail.com)
+Write us an email at [campuscallosum.org@gmail.com](mailto:campuscallosum.org@gmail.com)
 
 Look at us on [Instagram](https://www.instagram.com/campus_callosum/)
 
