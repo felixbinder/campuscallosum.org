@@ -26,6 +26,10 @@ AIM 2) Our speakeasy 'The Double-Blind Pig' is serving placebo-controlled refres
 
 Don‘t forget to have a look at our scientifically-inspired art projects on your way out!
 
+## Schedule
+
+![Schedule for 2023](schedule2023.png)
+
 <!-- ## Schedule
 
 | Date      | Time   | Event                                         |
