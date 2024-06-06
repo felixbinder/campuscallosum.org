@@ -1,5 +1,16 @@
 ---
 ---
 
+body {
+    font-family: "Times New Roman", Times, serif;
+}
+
 {% include css/settings.css %}
 {% include css/styles.css %}
+
+
+h3 {
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+}
