@@ -20,7 +20,7 @@ Scientifically rigorous yet playful participation enhances your burn.
 ### Intro
 Campus Callosum invites you to experiment with our placebo bar, sci-art and brain-inspired activities. 
 
-### Specific Aims:
+### Specific Aims
 
 #### AIM 1
 Are you drunk!? Our speakeasy The Double-Blind Pig serves placebo-controlled refreshments. While you sip, ask the local (inebriated?) scientists all your burning questions (results may vary)
