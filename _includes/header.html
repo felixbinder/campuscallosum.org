@@ -1,5 +1,6 @@
 <header class="header">
   <h1><a href="{{ site.baseurl | prepend: site.url }}/" title="{{ site.title }}">{{ site.title }}</a></h1>
   {% if site.description %}<h2>{{ site.description | escape }}</h2>{% endif %}
+  {% if site.contact %}<h3>Reach out to us at <a href="mailto:{{ site.contact }}">{{ site.contact | escape }}</a></h3>{% endif %}
   {% include nav.html %}
 </header>

@@ -12,25 +12,60 @@ layout: page
 
 <!-- <p align="center"><b>Find us at <a href="https://www.google.com/maps/d/viewer?mid=1IGnBpMKyclYjKZvhw9HQokDkeWAqBXhf&ll=40.78216363391222%2C-119.19619796311491&z=19">2:30 & A</a></b></p> -->
 
-Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this year and looking to form new connections!
+### Hypothesis
+Scientifically rigorous yet playful participation enhances your burn.
 
-Hypothesis: Scientifically rigorous yet playful activities enhance your burn.
+### Intro
+Campus Callosum invites you to experiment with our placebo bar, sci-art and brain-inspired activities. 
 
-Intro: Our science-themed camp, Campus Callosum, is hosting interactive demos, games, workshops, science art, and Q&As… and we want YOUR BRAIN!
+### Specific Aims
 
-Specific Aims:
+#### AIM 1
+Are you drunk!? Our speakeasy The Double-Blind Pig serves placebo-controlled refreshments. While you sip, ask the local (inebriated?) scientists all your burning questions (results may vary)
 
-AIM 1) Founded by neuroscientists and friends, we have a ton of brainy events! Check out our interactive neurotech, operant conditioning games, and expert-led chats on the neuroscience of drugs, the mind and more.
+#### AIM 2
+Can we tickle your brain!? Play with our interactive neurotech, mind-stretching games, and discover the neuroscience of your favorite drugs!
 
-AIM 2) Our speakeasy 'The Double-Blind Pig' is serving placebo-controlled refreshments. Drop in for "Ask a Drunk Scientist" to help us answer the all the questions that emerge from the dust and test your own ability to discern your sobriety.
+#### AIM 3
+Ready to blow your mind!? We’re not just nerds, we’re artists too! Study our scientifically inspired pieces co-created by neuroscientists and friends. 
 
-Don‘t forget to have a look at our scientifically-inspired art projects on your way out!
+### Summary
+WE WANT YOUR BRAINS to test our innovative approach to nerdy fun on the playa!
 
+
+# Campus Callosum 2023
 ## Schedule
 
-![Schedule for 2023](schedule2023.png)
+| Day       | Time    | Event                                             |
+| --------- | ------- | ------------------------------------------------- |
+| Monday    | 2:30pm  | Have a Smoother Burn                              |
+|           | 3:30pm  | Science of Decision Making                        |
+|           | 5:00pm  | Ask a Drunk(?) Scientist                          |
+| Tuesday   | 10:00am | Academics Anonymous                               |
+|           | 11:00am | Tasty Training for Better Burner Behavior         |
+|           | 12:00pm | Brain-gasm                                        |
+| Wednesday | 4:00pm  | The Neuroscience of Psychedelics + Q&A            |
+|           | 5:00pm  | Ask a Drunk(?) Scientist                          |
+|           | 8:00pm  | Brain Rave                                        |
+| Thursday  | 11:00am | A Role for Entactogens in Processing Climate Grief |
+|           | 12:00pm | Coma and Consciousness                            |
+| Friday    | 3:00pm  | Your Mind in Color                                |
+|           | 4:00pm  | Neuroscience Demo: Pick Your Own Brain!           |
+|           | 5:00pm  | Ask a Drunk(?) Scientist                          |
+| Saturday  | 12:30pm | Placebo's a Helluva Drug: Double-Blind Bar Results|
+|           | 1:00pm  | Science Open Mic                                  |
 
-<!-- ## Schedule
+## Photos 
+![](photos/2024/1.jpg)
+![](photos/2024/2.jpg)
+![](photos/2024/3.jpg)
+![](photos/2024/4.jpg)
+![](photos/2024/5.jpg)
+![](photos/2024/6.jpg)
+![](photos/2024/7.jpg)
+
+# Campus Callosum 2022
+## Schedule
 
 | Date      | Time   | Event                                         |
 | --------- | ------ | --------------------------------------------- |
@@ -53,7 +88,7 @@ Don‘t forget to have a look at our scientifically-inspired art projects on you
 | Friday    | 3–4pm  | Science Open Mic                              |
 |           | 4–5pm  | The Neuroscience of Consent                   |
 |           | 5–6pm  | Ask a Drunk(?) Scientist!                     |
-|           | 7–8pm  | Sunset poetry reading                         | -->
+|           | 7–8pm  | Sunset poetry reading                         |
 
 ## Photos
 
