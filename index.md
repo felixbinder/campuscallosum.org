@@ -18,6 +18,8 @@ Scientifically rigorous yet playful participation enhances your burn.
 ### Intro
 Campus Callosum invites you to experiment with our placebo bar, sci-art and brain-inspired activities. 
 
+![](photos/2024/1.jpg)
+
 ### Specific Aims
 
 #### AIM 1
@@ -33,8 +35,9 @@ Ready to blow your mind!? We’re not just nerds, we’re artists too! Study our
 WE WANT YOUR BRAINS to test our innovative approach to nerdy fun on the playa!
 
 
-# Campus Callosum 2023
-## Schedule
+# Past Years
+## Campus Callosum 2023
+### Schedule
 
 | Day       | Time    | Event                                             |
 | --------- | ------- | ------------------------------------------------- |
@@ -55,8 +58,7 @@ WE WANT YOUR BRAINS to test our innovative approach to nerdy fun on the playa!
 | Saturday  | 12:30pm | Placebo's a Helluva Drug: Double-Blind Bar Results|
 |           | 1:00pm  | Science Open Mic                                  |
 
-## Photos 
-![](photos/2024/1.jpg)
+### Photos 
 ![](photos/2024/2.jpg)
 ![](photos/2024/3.jpg)
 ![](photos/2024/4.jpg)
@@ -64,8 +66,8 @@ WE WANT YOUR BRAINS to test our innovative approach to nerdy fun on the playa!
 ![](photos/2024/6.jpg)
 ![](photos/2024/7.jpg)
 
-# Campus Callosum 2022
-## Schedule
+## Campus Callosum 2022
+### Schedule
 
 | Date      | Time   | Event                                         |
 | --------- | ------ | --------------------------------------------- |
@@ -90,7 +92,7 @@ WE WANT YOUR BRAINS to test our innovative approach to nerdy fun on the playa!
 |           | 5–6pm  | Ask a Drunk(?) Scientist!                     |
 |           | 7–8pm  | Sunset poetry reading                         |
 
-## Photos
+### Photos
 
 ![](photos/2023/1.jpeg)
 ![](photos/2023/2.jpeg)
@@ -101,7 +103,7 @@ WE WANT YOUR BRAINS to test our innovative approach to nerdy fun on the playa!
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1IGnBpMKyclYjKZvhw9HQokDkeWAqBXhf&ll=40.78216363391222%2C-119.19619796311491&z=18" width="752" height="480"></iframe> -->
 
-## Contact us
+# Contact us
 
 Write us an email at [campuscallosum.org@gmail.com](mailto:campuscallosum.org@gmail.com)
 
