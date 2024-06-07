@@ -14,23 +14,42 @@ layout: page
 
 Our favorite fiber tract, the Campus Callosum, is going back to Burning Man this year and looking to form new connections!
 
-Hypothesis: Scientifically rigorous yet playful activities enhance your burn.
+### Hypothesis
+Scientifically rigorous yet playful participation enhances your burn.
 
-Intro: Our science-themed camp, Campus Callosum, is hosting interactive demos, games, workshops, science art, and Q&As… and we want YOUR BRAIN!
+### Intro
+Campus Callosum invites you to experiment with our placebo bar, sci-art and brain-inspired activities. 
 
-Specific Aims:
+### Specific Aims:
 
-AIM 1) Founded by neuroscientists and friends, we have a ton of brainy events! Check out our interactive neurotech, operant conditioning games, and expert-led chats on the neuroscience of drugs, the mind and more.
+#### AIM 1
+Are you drunk!? Our speakeasy The Double-Blind Pig serves placebo-controlled refreshments. While you sip, ask the local (inebriated?) scientists all your burning questions (results may vary)
 
-AIM 2) Our speakeasy 'The Double-Blind Pig' is serving placebo-controlled refreshments. Drop in for "Ask a Drunk Scientist" to help us answer the all the questions that emerge from the dust and test your own ability to discern your sobriety.
+#### AIM 2
+Can we tickle your brain!? Play with our interactive neurotech, mind-stretching games, and discover the neuroscience of your favorite drugs!
 
-Don‘t forget to have a look at our scientifically-inspired art projects on your way out!
+#### AIM 3
+Ready to blow your mind!? We’re not just nerds, we’re artists too! Study our scientifically inspired pieces co-created by neuroscientists and friends. 
 
+### Summary
+WE WANT YOUR BRAINS to test our innovative approach to nerdy fun on the playa!
+
+
+# Campus Callosum 2023
 ## Schedule
-
 ![Schedule for 2023](schedule2023.png)
 
-<!-- ## Schedule
+## Photos 
+![](photos/2024/1.jpg)
+![](photos/2024/2.jpg)
+![](photos/2024/3.jpg)
+![](photos/2024/4.jpg)
+![](photos/2024/5.jpg)
+![](photos/2024/6.jpg)
+![](photos/2024/7.jpg)
+
+# Campus Callosum 2022
+## Schedule
 
 | Date      | Time   | Event                                         |
 | --------- | ------ | --------------------------------------------- |
@@ -53,7 +72,7 @@ Don‘t forget to have a look at our scientifically-inspired art projects on you
 | Friday    | 3–4pm  | Science Open Mic                              |
 |           | 4–5pm  | The Neuroscience of Consent                   |
 |           | 5–6pm  | Ask a Drunk(?) Scientist!                     |
-|           | 7–8pm  | Sunset poetry reading                         | -->
+|           | 7–8pm  | Sunset poetry reading                         |
 
 ## Photos
 
