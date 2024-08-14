@@ -34,6 +34,9 @@ Ready to blow your mind!? We’re not just nerds, we’re artists too! Study our
 ### Summary
 WE WANT YOUR BRAINS to test our innovative approach to nerdy fun on the playa!
 
+# 2024 Curiouser & Curiouser
+### Schedule
+![](assets/schedule_2024.jpg)
 
 # Past Years
 ## Campus Callosum 2023
