@@ -8,7 +8,7 @@
 layout: page
 ---
 
-![logo](logo.png)
+![logo](assets/schedule_2024.jpg)
 
 <!-- <p align="center"><b>Find us at <a href="https://www.google.com/maps/d/viewer?mid=1IGnBpMKyclYjKZvhw9HQokDkeWAqBXhf&ll=40.78216363391222%2C-119.19619796311491&z=19">2:30 & A</a></b></p> -->
 
@@ -33,10 +33,6 @@ Ready to blow your mind!? We’re not just nerds, we’re artists too! Study our
 
 ### Summary
 WE WANT YOUR BRAINS to test our innovative approach to nerdy fun on the playa!
-
-# 2024 Curiouser & Curiouser
-### Schedule
-![](assets/schedule_2024.jpg)
 
 # Past Years
 ## Campus Callosum 2023
