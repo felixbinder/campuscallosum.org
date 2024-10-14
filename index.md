@@ -8,9 +8,12 @@
 layout: page
 ---
 
-![logo](assets/schedule_2024.jpg)
+### Double Blind Pig 2024 Analysis
+Interested in this years study? See the results [here](https://camrobjones.com/static/etc/dbp_analysis_2024.html)!
 
-<!-- <p align="center"><b>Find us at <a href="https://www.google.com/maps/d/viewer?mid=1IGnBpMKyclYjKZvhw9HQokDkeWAqBXhf&ll=40.78216363391222%2C-119.19619796311491&z=19">2:30 & A</a></b></p> -->
+![](photos/2024/double_blind_pig_results.png)
+
+## Mission
 
 ### Hypothesis
 Scientifically rigorous yet playful participation enhances your burn.
@@ -35,6 +38,9 @@ Ready to blow your mind!? We’re not just nerds, we’re artists too! Study our
 WE WANT YOUR BRAINS to test our innovative approach to nerdy fun on the playa!
 
 # Past Years
+## Campus Callosum 2024
+![logo](assets/schedule_2024.jpg)
+
 ## Campus Callosum 2023
 ### Schedule
 
